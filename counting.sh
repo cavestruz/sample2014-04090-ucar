@@ -1,4 +1,4 @@
-for num in {1..10};
+for num in {1..15};
 do
 echo $num
 done
